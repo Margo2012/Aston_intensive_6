@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/frame_margin"
+    android:id="@+id/fragment_detail_contacts"
+    >
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="@dimen/image_size"
+        android:layout_height="@dimen/image_size"/>
+    <TextView
+        android:id="@+id/last_name_text_view"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/text_padding"
+        android:textStyle="bold"
+        android:hint="Фамилия"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/name_text_view"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/text_padding"
+        android:textStyle="bold"
+        android:hint="Имя"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/phone_text_view"
+        android:textSize="@dimen/text_size"
+        android:padding="@dimen/text_padding"
+        android:hint="Телефон"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

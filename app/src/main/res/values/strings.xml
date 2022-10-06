@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhoneContacts</string>
+    <string name="last_name">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="phone">Телефон</string>
+    <string name="image_1">https://rickandmortyapi.com/api/character/avatar/1.jpeg</string>
+    <string name="image_2">https://rickandmortyapi.com/api/character/avatar/2.jpeg</string>
+    <string name="image_3">https://rickandmortyapi.com/api/character/avatar/3.jpeg</string>
+    <string name="image_4">https://rickandmortyapi.com/api/character/avatar/4.jpeg</string>
+    <string name="image_5">https://rickandmortyapi.com/api/character/avatar/5.jpeg</string>
+    <string name="image_6">https://rickandmortyapi.com/api/character/avatar/6.jpeg</string>
+    <string name="image_7">https://rickandmortyapi.com/api/character/avatar/7.jpeg</string>
+    <string name="image_8">https://rickandmortyapi.com/api/character/avatar/8.jpeg</string>
+    <string name="image_9">https://rickandmortyapi.com/api/character/avatar/9.jpeg</string>
+    <string name="image_10">https://rickandmortyapi.com/api/character/avatar/10.jpeg</string>
+</resources>
